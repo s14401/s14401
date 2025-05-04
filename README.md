@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sarthak 👋
 
-<!--
-**s14401/s14401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Class 10 student learning to code.
 
-Here are some ideas to get you started:
+💻 I’m currently learning:
+- Python basics 🐍
+- HTML and CSS 🌐
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects I'm working on:
+- My personal website
+- A simple calculator in Python
+- My first portfolio on GitHub!
+
+📚 Fun fact:
+I love technology and want to become a software developer one day.
